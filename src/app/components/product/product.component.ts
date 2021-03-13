@@ -8,6 +8,7 @@ import { Product } from 'src/app/models/product';
 })
 export class ProductComponent implements OnInit {
  
+  
 
   products:Product[] = [];
   constructor() {}
